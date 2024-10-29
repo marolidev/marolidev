@@ -34,12 +34,12 @@ ___________________________________________________
 <br />
 
 <h3> 📖 Librerías de Data Science 📖 </h3>
-🐍 **Python** 🐍
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
+
+<br />
+🐍 Python 🐍
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
                     
-
-**R**
-

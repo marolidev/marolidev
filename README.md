@@ -1,4 +1,4 @@
-English version: [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+English version: [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/marolidev/marolidev/blob/main/README-ENG.md)
 # María O.
 🇪🇸 **Analista de datos**
 
@@ -12,19 +12,6 @@ En este portafolio encontrarás:
 - Proyectos de data science realizados en el máster.
 - Proyectos del bootcamp de JS.
 - Proyectos personales.
-- - - - - - - - - - - - - - - - - - - - - 
-🇬🇧 **Data Analyst**
-
-Graduated in Psychology with a major in Cognitive Science and a focus on data analysis and statistics applied to psychological processes, I have studied a Masters' in Big Data and Data Science, acquiring skills in Python, SQL, R, MongoDB and PowerBI. My experience ranges from management to visualization of large volumes of data, including the development of clear dashboards and comprehensive reports in PowerBI.
-
-I have learned preprocessing and analysis techniques through projects in Machine Learning and Deep Learning, such as data mining and sentiment analysis, applicable to various data sources, such as Twitter. My interest in Human Resources and People Analytics has motivated me to use data to better understand human behavior and optimize talent management in work contexts. With a proactive attitude, I seek to constantly update myself on the latest trends in data analytics and development.
-
-I am currently taking a Front End development course to learn what is necessary to make web visualizations, complementing it with my training in data in order to introduce myself little by little in the world of web development.
-
-In this portfolio you will find:
-- Data science projects done in the master.
-- JS bootcamp projects.
-- Personal projects.
 ___________________________________________________
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maría-olivares-fernández)
@@ -47,7 +34,7 @@ ___________________________________________________
 
 <br />
 
-<h3> 📖 Librerías de Data Science 📖 </h3>
+<h3> 📖 Librerías e IDEs de Data Science 📖 </h3>
 
 
 <br />
@@ -56,5 +43,5 @@ ___________________________________________________
 <img align="left" alt="Pandas" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-________________________________________________________                    
+<img align="left" alt="VS Code" width="30px" style="padding-right:5px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />      
 

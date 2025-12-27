@@ -14,7 +14,7 @@ En este portafolio encontrarás:
 - Proyectos personales.
 ___________________________________________________
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](www.linkedin.com/in/maría-olivares-fernández)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/mar%C3%ADa-olivares-fern%C3%A1ndez/)
 
 ### ⚙️ Lenguajes y Nivel ⚙️
 
